@@ -1,0 +1,22 @@
+{
+  "name": "number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monggaga1402/Number.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "aonaloned",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monggaga1402/Number/issues"
+  },
+  "homepage": "https://github.com/monggaga1402/Number#readme"
+}
